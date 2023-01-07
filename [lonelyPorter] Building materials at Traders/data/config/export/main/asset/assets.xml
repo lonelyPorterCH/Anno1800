@@ -1,0 +1,140 @@
+<ModOps>
+  <!-- Third_party_06 (Old Nate) 77-->
+  <ModOp Type="add" GUID='77' Path="/Values/Trader/Progression/EndGame/GoodsProduction">
+    <!-- Scrap -->
+    <Item>
+      <Good>112518</Good>
+      <ProductionPerMinute>7</ProductionPerMinute>
+    </Item>
+    <Item>
+      <Good>112520</Good>
+      <ProductionPerMinute>7</ProductionPerMinute>
+    </Item>
+    <Item>
+      <Good>112523</Good>
+      <ProductionPerMinute>7</ProductionPerMinute>
+    </Item>
+  </ModOp>
+
+  <ModOp Type="add" GUID='77' Path="/Values/Trader/Progression/EndGame/OfferingGoods/Item/GoodSets">
+    <Item>
+      <Good>112518</Good>
+    </Item>
+    <Item>
+      <Good>112520</Good>
+    </Item>
+    <Item>
+      <Good>112523</Good>
+    </Item>
+  </ModOp>
+
+  <!-- Profile_3rdParty, Third_party_02 (Archibald Blake), GUID 45 -->
+  <ModOp Type="add" GUID='45' Path="/Values/Trader/Progression/MidGame/GoodsProduction">
+    <Item>
+      <Good>1010207</Good>
+      <ProductionPerMinute>4</ProductionPerMinute>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='45' Path="/Values/Trader/Progression/MidGame/OfferingGoods/Item/GoodSets">
+    <Item>
+      <Good>1010207</Good>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='45' Path="/Values/Trader/Progression/LateMidGame/GoodsProduction">
+    <Item>
+      <Good>1010207</Good>
+      <ProductionPerMinute>5</ProductionPerMinute>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='45' Path="/Values/Trader/Progression/LateMidGame/OfferingGoods/Item/GoodSets">
+    <Item>
+      <Good>1010207</Good>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='45' Path="/Values/Trader/Progression/LateGame/GoodsProduction">
+    <Item>
+	<!-- Reinforced Concrete -->
+      <Good>1010202</Good>
+      <ProductionPerMinute>6</ProductionPerMinute>
+    </Item>
+	<Item>
+	<!-- Windows -->
+      <Good>1010207</Good>
+      <ProductionPerMinute>6</ProductionPerMinute>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='45' Path="/Values/Trader/Progression/LateGame/OfferingGoods/Item/GoodSets">
+    <Item>
+      <Good>1010202</Good>
+    </Item>
+	<Item>
+      <Good>1010207</Good>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='45' Path="/Values/Trader/Progression/EndGame/GoodsProduction">
+    <Item>
+      <Good>1010202</Good>
+      <ProductionPerMinute>7</ProductionPerMinute>
+    </Item>
+	<Item>
+      <Good>1010207</Good>
+      <ProductionPerMinute>7</ProductionPerMinute>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='45' Path="/Values/Trader/Progression/EndGame/OfferingGoods/Item/GoodSets">
+    <Item>
+      <Good>1010202</Good>
+    </Item>
+	<Item>
+      <Good>1010207</Good>
+    </Item>
+  </ModOp>
+  
+  <!-- Isabel -->
+  <ModOp Type="add" GUID='29' Path="/Values/Trader/Progression/LateGame/GoodsProduction">
+    <Item>
+      <Good>1010196</Good>
+      <ProductionPerMinute>6</ProductionPerMinute>
+    </Item>
+	<Item>
+      <Good>1010205</Good>
+      <ProductionPerMinute>6</ProductionPerMinute>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='29' Path="/Values/Trader/Progression/LateGame/OfferingGoods/Item/GoodSets">
+    <Item>
+      <Good>1010196</Good>
+    </Item>
+	<Item>
+      <Good>1010205</Good>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='29' Path="/Values/Trader/Progression/EndGame/GoodsProduction">
+    <Item>
+	<!-- Timber -->
+      <Good>1010196</Good>
+      <ProductionPerMinute>20</ProductionPerMinute>
+    </Item>
+	<Item>
+	<!-- Bricks -->
+      <Good>1010205</Good>
+      <ProductionPerMinute>20</ProductionPerMinute>
+    </Item>
+	<Item>
+	<!-- Aluminum Profiles -->
+      <Good>838</Good>
+      <ProductionPerMinute>20</ProductionPerMinute>
+    </Item>
+  </ModOp>
+  <ModOp Type="add" GUID='29' Path="/Values/Trader/Progression/EndGame/OfferingGoods/Item/GoodSets">
+    <Item>
+      <Good>1010196</Good>
+    </Item>
+	<Item>
+      <Good>1010205</Good>
+    </Item>
+	<Item>
+      <Good>838</Good>
+    </Item>
+  </ModOp>
+</ModOps>
