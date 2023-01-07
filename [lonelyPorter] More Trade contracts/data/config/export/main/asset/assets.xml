@@ -1,0 +1,301 @@
+<ModOps>
+  <!-- FEEDL -->
+  <ModOp Type = "replace" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131809']/TradeLevels">
+    <TradeLevels>
+      <Item>
+        <Unlock>131829</Unlock>
+        <Trades>
+          <Item>
+            <Good>1010200</Good>        <!-- Fische -->
+          </Item>
+          <Item>
+            <Good>1010216</Good>        <!-- Schnaps -->
+          </Item>
+          <Item>
+            <Good>1010238</Good>        <!-- Wurst -->
+          </Item>
+          <Item>
+            <Good>1010235</Good>          <!-- Mehl (NEW) -->
+          </Item>
+        </Trades>
+      </Item>
+      <Item>
+        <Unlock>131830</Unlock>
+        <Trades>
+          <Item>
+            <Level>Uncommon</Level>
+            <Good>1010213</Good>        <!-- Brot -->
+          </Item>
+          <Item>
+            <Level>Uncommon</Level>
+            <Good>1010215</Good>        <!-- Gulasch -->
+          </Item>
+          <Item>
+            <Level>Uncommon</Level>
+            <Good>1010239</Good>	    <!-- Zucker (NEW) -->
+          </Item>
+          <Item>
+            <Level>Rare</Level>
+            <Good>1010214</Good>        <!-- Bier -->
+          </Item>
+        </Trades>
+      </Item>
+      <Item>
+        <Unlock>131831</Unlock>
+        <Trades>
+          <Item>
+            <Level>Rare</Level>
+            <Good>114410</Good>         <!-- Meeresfrüchte-Eintopf -->
+          </Item>
+          <Item>
+            <Level>Rare</Level>
+            <Good>1010217</Good>        <!-- Konserven -->
+          </Item>
+          <Item>
+            <Level>Rare</Level>
+            <Good>1010257</Good>        <!-- Rum -->
+          </Item>
+          <Item>
+            <Level>Epic</Level>
+            <Good>120016</Good>         <!-- Sekt -->
+          </Item>
+        </Trades>
+      </Item>
+      <Item>
+        <Unlock>131832</Unlock>
+        <Trades>
+          <Item>
+            <Level>Epic</Level>
+            <Good>133185</Good>          <!-- Limonade (NEW) -->
+          </Item>
+          <Item>
+            <Level>Epic</Level>
+            <Good>133183</Good>          <!-- Konfitüre (NEW) -->
+          </Item>
+          <Item>
+            <Level>Legendary</Level>
+            <Good>135229</Good>          <!-- Bisquit (NEW) -->
+          </Item>
+          <Item>
+            <Level>Legendary</Level>
+            <Good>135234</Good>          <!-- Cognac (NEW) -->
+          </Item>
+        </Trades>
+      </Item>
+    </TradeLevels>
+  </ModOp>
+
+  <!-- Tattershire Farms (replace command didn't work, adding instead) -->
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131819']/TradeLevels/Item[Unlock = '131850']/Trades">
+	<Item>
+	  <Good>120036</Good>		<!-- Alpakawolle (NEW) -->
+	</Item>
+	<Item>
+	  <Good>1010251</Good>		<!-- Zuckerrohr (NEW) -->
+	</Item>
+  </ModOp>
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131819']/TradeLevels/Item[Unlock = '131851']/Trades">
+	<Item>
+	  <Level>Uncommon</Level>
+	  <Good>1010253</Good>	    <!-- Baumwolle (NEW) -->
+	</Item>
+  </ModOp>
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131819']/TradeLevels/Item[Unlock = '131852']/Trades">
+	<Item>
+	  <Level>Rare</Level>
+	  <Good>120014</Good>			<!-- Trauben (NEW) -->
+	</Item>
+	<Item>
+	  <Level>Epic</Level>
+	  <Good>133097</Good>			<!-- Zitrusfrüchte (NEW) -->
+	</Item>
+	<Item>
+	  <Level>Legendary</Level>
+	  <Good>5401</Good>				<!-- Nandu Federn (NEW) -->
+	</Item>
+  </ModOp>
+
+  <!-- Chanteuse (replace command didn't work, adding instead) -->
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131765']/TradeLevels/Item[Unlock = '131770']/Trades">
+    <Item>
+	  <Level>Uncommon</Level>
+	  <Good>112696</Good>		<!-- Robbenfelle (NEW) -->
+	</Item>
+	<Item>
+	  <Level>Rare</Level>
+	  <Good>112695</Good>		<!-- Bärenfelle (NEW) -->
+	</Item>
+  </ModOp>
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131765']/TradeLevels/Item[Unlock = '131823']/Trades">
+	<Item>
+	  <Level>Epic</Level>
+	  <Good>133181</Good>		<!-- Shampoo (NEW) -->
+	</Item>
+	<Item>
+	  <Level>Epic</Level>
+	  <Good>117702</Good>		<!-- Papier (NEW) -->
+    </Item>
+  </ModOp>
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131765']/TradeLevels/Item[Unlock = '131824']/Trades">
+	<Item>
+	  <Level>Legendary</Level>
+	  <Good>135186</Good>		<!-- Kaugummi (NEW) -->
+	</Item>
+  </ModOp>
+
+  <!-- Qinsa Mining -->
+
+  <!-- Old Levant &amp; Co.-->
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131767']/TradeLevels/Item[Unlock = '131825']/Trades">
+    <Item>
+		<Good>120042</Good>			<!-- Fischöl -->
+	</Item>
+	<Item>
+      <Level>Uncommon</Level>
+	  <Good>112699</Good>			<!-- Walöl -->
+	</Item>
+	<Item>
+      <Level>Uncommon</Level>
+      <Good>120031</Good>			<!-- Kaffeebohnen -->
+    </Item>
+    <Item>
+      <Level>Uncommon</Level>
+      <Good>1010254</Good>			<!-- Kakao -->
+    </Item>
+  </ModOp>
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131767']/TradeLevels/Item[Unlock = '131828']/Trades">
+    <Item>
+      <Level>Epic</Level>
+      <Good>118728</Good>			<!-- Hummer -->
+    </Item>
+    <Item>
+      <Level>Epic</Level>
+      <Good>133093</Good>           <!-- Zimt -->
+    </Item>
+    <Item>
+      <Level>Epic</Level>
+      <Good>133095</Good>           <!-- Kokosöl -->
+    </Item>
+  </ModOp>
+
+  <!-- KITEA-->
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131811']/TradeLevels/Item[Unlock = '131836']/Trades">
+    <Item>
+      <Level>Epic</Level>
+      <Good>135086</Good>			<!-- Harz -->
+    </Item>
+    <Item>
+      <Level>Epic</Level>
+      <Good>135087</Good>			<!-- Kirschholz -->
+    </Item>
+    <Item>
+      <Level>Epic</Level>
+      <Good>134616</Good>			<!-- Kampfer -->
+    </Item>
+    <Item>
+      <Level>Legendary</Level>
+      <Good>133532</Good>			<!-- Souveniers -->
+    </Item>
+  </ModOp>
+
+  <!-- Promise Trust.-->
+  <ModOp Type = "replace" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131817']/TradeLevels">
+    <TradeLevels>
+      <Item>
+        <Unlock>131845</Unlock>
+        <Trades>
+          <Item>
+            <Good>1010232</Good>        <!-- Salpeter -->
+          </Item>
+          <Item>
+            <Good>1010222</Good>        <!-- Dynamit -->
+          </Item>
+          <Item>
+            <Good>1010234</Good>        <!-- Talg -->
+          </Item>
+          <Item>
+            <Level>Uncommon</Level>
+            <Good>1010205</Good>        <!-- Ziegelsteine (NEW) -->
+          </Item>
+        </Trades>
+      </Item>
+      <Item>
+        <Unlock>131846</Unlock>
+        <Trades>
+          <Item>
+            <Level>Uncommon</Level>
+            <Good>1010243</Good>        <!-- Glühfäden -->
+          </Item>
+          <Item>
+            <Level>Rare</Level>
+            <Good>1010255</Good>        <!-- Kautschuk -->
+          </Item>
+          <Item>
+            <Level>Rare</Level>
+            <Good>1010218</Good>        <!-- Stahlträger (NEW) -->
+          </Item>
+        </Trades>
+      </Item>
+      <Item>
+        <Unlock>131847</Unlock>
+        <Trades>
+          <Item>
+            <Level>Rare</Level>
+            <Good>1010208</Good>          <!-- Glühbirnen -->
+          </Item>
+          <Item>
+            <Level>Epic</Level>
+            <Good>1010207</Good>          <!-- Fenster (NEW) -->
+          </Item>
+          <Item>
+            <Level>Epic</Level>
+            <Good>1010202</Good>          <!-- Stahlbeton (NEW) -->
+          </Item>
+          <Item>
+            <Level>Epic</Level>
+            <Good>838</Good>          	<!-- Aluminiumprofil (NEW) -->
+          </Item>
+          <Item>
+            <Level>Legendary</Level>
+            <Good>135129</Good>           <!-- Farben und Lacke (NEW) -->
+          </Item>
+          <Item>
+            <Level>Legendary</Level>
+            <Good>135150</Good>           <!-- Zelluloid -->
+          </Item>
+          <Item>
+            <Level>Legendary</Level>
+            <Good>134623</Good>           <!-- Fahrstühle (NEW) -->
+          </Item>
+        </Trades>
+      </Item>
+    </TradeLevels>
+  </ModOp>
+  
+  <!-- Ganymedia.-->
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131813']/TradeLevels/Item[Unlock = '131838']/Trades">
+    <Item>
+      <Level>Rare</Level>
+      <Good>117698</Good>		<!-- Chroniken (NEW) -->
+    </Item>
+  </ModOp>
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131813']/TradeLevels/Item[Unlock = '131840']/Trades">
+	<Item>
+	  <Level>Legendary</Level>
+	  <Good>135230</Good>		<!-- Typewriter (NEW) -->
+	</Item>
+	<Item>
+	  <Level>Legendary</Level>
+	  <Good>135232</Good>		<!-- Billard (NEW) -->
+	</Item>
+	<Item>
+	  <Level>Legendary</Level>
+	  <Good>135233</Good>		<!-- Violin (NEW -->
+	</Item>
+	<Item>
+	  <Level>Legendary</Level>
+	  <Good>135231</Good>		<!-- Spielzeug (NEW) -->
+	</Item>
+  </ModOp>
+
+</ModOps>
