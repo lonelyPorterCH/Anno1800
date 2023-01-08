@@ -241,6 +241,10 @@
         <Trades>
           <Item>
             <Level>Rare</Level>
+            <Good>1010224</Good>          <!-- Steam Motors (NEW) -->
+          </Item>
+          <Item>
+            <Level>Rare</Level>
             <Good>1010208</Good>          <!-- Glühbirnen -->
           </Item>
           <Item>
@@ -295,6 +299,14 @@
 	<Item>
 	  <Level>Legendary</Level>
 	  <Good>135231</Good>		<!-- Spielzeug (NEW) -->
+	</Item>
+	<Item>
+	  <Level>Legendary</Level>
+	  <Good>5395</Good>		<!-- Ventilator (NEW) -->
+	</Item>
+	<Item>
+	  <Level>Legendary</Level>
+	  <Good>5391</Good>		<!-- Roller (NEW) -->
 	</Item>
   </ModOp>
 
