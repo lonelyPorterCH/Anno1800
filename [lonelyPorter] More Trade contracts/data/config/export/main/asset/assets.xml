@@ -176,6 +176,10 @@
       <Level>Epic</Level>
       <Good>133095</Good>           <!-- Kokosöl -->
     </Item>
+    <Item>
+      <Level>Legendary</Level>
+      <Good>6600</Good>           <!-- Mezcal -->
+    </Item>
   </ModOp>
 
   <!-- KITEA-->
