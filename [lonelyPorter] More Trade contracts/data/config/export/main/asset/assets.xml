@@ -141,6 +141,10 @@
 	  <Level>Legendary</Level>
 	  <Good>135186</Good>		<!-- Kaugummi (NEW) -->
 	</Item>
+	<Item>
+	  <Level>Legendary</Level>
+	  <Good>5388</Good>			<!-- Perfumes (NEW) -->
+	</Item>
   </ModOp>
 
   <!-- Qinsa Mining -->
@@ -162,8 +166,16 @@
       <Level>Uncommon</Level>
       <Good>1010254</Good>			<!-- Kakao -->
     </Item>
+    <Item>
+      <Level>Uncommon</Level>
+      <Good>114875</Good>			<!-- Hibiscus Petals (NEW) -->
+    </Item>
   </ModOp>
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131767']/TradeLevels/Item[Unlock = '131828']/Trades">
+    <Item>
+      <Level>Epic</Level>
+      <Good>5383</Good>				<!-- Herbs -->
+    </Item>
     <Item>
       <Level>Epic</Level>
       <Good>118728</Good>			<!-- Hummer -->
@@ -178,7 +190,7 @@
     </Item>
     <Item>
       <Level>Legendary</Level>
-      <Good>6600</Good>           <!-- Mezcal -->
+      <Good>6600</Good>           	<!-- Mezcal -->
     </Item>
   </ModOp>
 
