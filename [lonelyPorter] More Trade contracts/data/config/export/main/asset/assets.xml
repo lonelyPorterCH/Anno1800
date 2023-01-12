@@ -56,6 +56,10 @@
             <Good>1010257</Good>        <!-- Rum -->
           </Item>
           <Item>
+            <Level>Rare</Level>
+            <Good>5382</Good>        	<!-- Ice Cream -->
+          </Item>
+          <Item>
             <Level>Epic</Level>
             <Good>120016</Good>         <!-- Sekt -->
           </Item>
@@ -95,6 +99,10 @@
 	</Item>
   </ModOp>
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131819']/TradeLevels/Item[Unlock = '131851']/Trades">
+	<Item>
+	  <Level>Uncommon</Level>
+	  <Good>114367</Good>	    <!-- Teff (NEW) -->
+	</Item>
 	<Item>
 	  <Level>Uncommon</Level>
 	  <Good>1010253</Good>	    <!-- Baumwolle (NEW) -->
@@ -168,7 +176,7 @@
     </Item>
     <Item>
       <Level>Uncommon</Level>
-      <Good>114875</Good>			<!-- Hibiscus Petals (NEW) -->
+      <Good>114364</Good>			<!-- Hibiscus Petals (NEW) -->
     </Item>
   </ModOp>
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131767']/TradeLevels/Item[Unlock = '131828']/Trades">
