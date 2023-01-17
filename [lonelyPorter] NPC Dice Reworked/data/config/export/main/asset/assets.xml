@@ -1,6 +1,5 @@
 <ModOps>
 	<!-- Sir Archbald - Old World -->
-	<!-- Equipables for military (56 items), sailing (3 items), ships (62 items), steamships (9 items), Old World's Treasure Maps (9 items) & Habourmaster's Office (71 items). (Total: 210 items) -->
 	<ModOp Type="replace" GUID='192069' Path="/Values/RewardPool">
 		<RewardPool>
 			<ItemsPool>
@@ -265,7 +264,7 @@
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
 	</ModOp>
-	<!-- Eli Bleakworth (Jailer) - Old World | Equipables for Trade Union (323 items), Town Hall (218 items). (Total: 541 items) -->
+	<!-- Eli Bleakworth (Jailer) - Old World -->
 	<ModOp Type="replace" GUID='190774' Path="/Values/RewardPool">
 		<RewardPool>
 			<ItemsPool>
@@ -1028,7 +1027,6 @@
 		</RewardPool>
 	</ModOp>
 	<!-- Madame Kahina (Emporio Exotique) - Old World --> 
-	<!-- Ornaments (11 items), Music Sheets (5 items), Museum sets (60 items), Zoo Sets (60 items), Botanical Garden Sets (51 items) -->
 	<ModOp Type="replace" GUID='192068' Path="/Values/RewardPool">
 		<RewardPool>
 			<ItemsPool>
@@ -1305,7 +1303,7 @@
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
 	</ModOp>
-	<!-- Anne Harlow (Pirates) - Old World | Legendaries for Ships and Harbourmaster's Office (48 items), Legendary Treasure Maps (15 items) (Total: 63 items) -->
+	<!-- Anne Harlow (Pirates) - Old World -->
 	<ModOp Type="replace" GUID='192070' Path="/Values/RewardPool">
 		<RewardPool>
 			<ItemsPool>
@@ -1379,7 +1377,6 @@
 		</RewardPool>
 	</ModOp>
 	<!-- Isabel Sarmento - New World  --> 
-	<!-- Museum non set Artifacts (56 items), Botanical Garden non set Plants (17 items), Zoo non set Animals (43 items) & New World's Treasure Maps (9 items). (Total: 124 items) -->
 	<ModOp Type="replace" GUID='192073' Path="/Values/RewardPool">
 		<RewardPool>
 			<ItemsPool>
@@ -1522,7 +1519,7 @@
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
 	</ModOp>
-	<!-- Jean La Fortune (Pirates) - New World | Legendary Items for Town Hall (30 Items) & Trade Union (40 Items) (Total: 70 items) -->
+	<!-- Jean La Fortune (Pirates) - New World -->
 	<ModOp Type="replace" GUID='192071' Path="/Values/RewardPool">
 		<RewardPool>
 			<ItemsPool>
@@ -1648,14 +1645,14 @@
 				<item><ItemLink>112390</ItemLink><Weight>10</Weight></item> <!-- Kiosk of Flighty Fortunes -->
 				<item><ItemLink>112391</ItemLink><Weight>10</Weight></item> <!-- Tombola -->
 				<item><ItemLink>116186</ItemLink><Weight>10</Weight></item> <!-- Helium Pump -->
-				<item><ItemLink>116178</ItemLink><Weight>0</Weight></item> <!-- Refridgenator (Quest-Item) -->
-				<item><ItemLink>116179</ItemLink><Weight>0</Weight></item> <!-- Jukebox (Quest-Item) -->
-				<item><ItemLink>116180</ItemLink><Weight>0</Weight></item> <!-- Ice Maker (Quest-Item) -->
-				<item><ItemLink>116181</ItemLink><Weight>0</Weight></item> <!-- Billiard Table (Quest-Item) -->
-				<item><ItemLink>116182</ItemLink><Weight>0</Weight></item> <!-- Craft Beer Takeaway (Quest-Item) -->
-				<item><ItemLink>116183</ItemLink><Weight>0</Weight></item> <!-- Souveniers Kiosk (Quest-Item) -->
-				<item><ItemLink>116184</ItemLink><Weight>0</Weight></item> <!-- Espresson8er (Quest-Item) -->
-				<item><ItemLink>116188</ItemLink><Weight>0</Weight></item> <!-- Ice Cream Maker (Quest-Item) -->
+				<item><ItemLink>116178</ItemLink><Weight>10</Weight></item> <!-- Refridgenator -->
+				<item><ItemLink>116179</ItemLink><Weight>10</Weight></item> <!-- Jukebox -->
+				<item><ItemLink>116180</ItemLink><Weight>10</Weight></item> <!-- Ice Maker -->
+				<item><ItemLink>116181</ItemLink><Weight>10</Weight></item> <!-- Billiard Table -->
+				<item><ItemLink>116182</ItemLink><Weight>10</Weight></item> <!-- Craft Beer Takeaway -->
+				<item><ItemLink>116183</ItemLink><Weight>10</Weight></item> <!-- Souveniers Kiosk -->
+				<item><ItemLink>116184</ItemLink><Weight>10</Weight></item> <!-- Espresson8er -->
+				<item><ItemLink>116188</ItemLink><Weight>10</Weight></item> <!-- Ice Cream Maker -->
 				<!-- Ships -->
 				<item><ItemLink>112377</ItemLink><Weight>10</Weight></item> <!-- Jet Propeller -->
 				<item><ItemLink>112378</ItemLink><Weight>10</Weight></item> <!-- Jet Propeller -->
@@ -1761,7 +1758,7 @@
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
 	</ModOp>
-	<!-- Qumaq - Arctic | Airships (5 items), Arctic Lodge (47 items), Arctic Treasure Maps (9 items). (Total: 61 items)  -->
+	<!-- Qumaq - Arctic  -->
 	<ModOp Type="replace" GUID='193835' Path="/Values/RewardPool">
 		<RewardPool>
 			<ItemsPool>
@@ -1833,7 +1830,7 @@
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
 	</ModOp>
-	<!-- Emperor Ketema - Enbesa | Harbourmaster's Office (7 items), Trade Union (38 items), Town Hall (26 Items), Enbesa Treasure Maps (10 items) (Total: 81 items) -->
+	<!-- Emperor Ketema - Enbesa -->
 	<ModOp Type="replace" GUID='127480' Path="/Values/RewardPool">
 		<RewardPool>
 			<ItemsPool>
