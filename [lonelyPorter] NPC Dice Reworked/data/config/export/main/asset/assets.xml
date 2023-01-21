@@ -1619,11 +1619,11 @@
 				<item><ItemLink>112886</ItemLink><Weight>10</Weight></item> <!-- Oil Rare -->
 				<item><ItemLink>112887</ItemLink><Weight>10</Weight></item> <!-- Oil Epic -->
 				<item><ItemLink>116189</ItemLink><Weight>10</Weight></item> <!-- Ballon MagNate -->
-				<item><ItemLink>116177</ItemLink><Weight>0</Weight></item> <!-- Smoke Detector (Quest-Item) -->
-				<item><ItemLink>116176</ItemLink><Weight>0</Weight></item> <!-- Water Cooler (Quest-Item) -->
-				<item><ItemLink>116187</ItemLink><Weight>0</Weight></item> <!-- Cigar Roller (Quest-Item) -->
-				<item><ItemLink>116190</ItemLink><Weight>0</Weight></item> <!-- Golden Harvester (Quest-Item) -->
-				<item><ItemLink>116185</ItemLink><Weight>0</Weight></item> <!-- Cola Mola Wola Machine (Quest-Item) -->
+				<item><ItemLink>116177</ItemLink><Weight>10</Weight></item> <!-- Smoke Detector (Craftable) -->
+				<item><ItemLink>116176</ItemLink><Weight>10</Weight></item> <!-- Water Cooler (Craftable) -->
+				<item><ItemLink>116187</ItemLink><Weight>10</Weight></item> <!-- Cigar Roller (Craftable) -->
+				<item><ItemLink>116190</ItemLink><Weight>10</Weight></item> <!-- Golden Harvester (Craftable) -->
+				<item><ItemLink>116185</ItemLink><Weight>10</Weight></item> <!-- Cola Mola Wola Machine (Craftable) -->
 				<!-- Habourmaster's Office -->
 				<item><ItemLink>112380</ItemLink><Weight>10</Weight></item> <!-- excavator shovel Rare -->
 				<item><ItemLink>112381</ItemLink><Weight>10</Weight></item> <!-- excavator shovel Epic -->
@@ -1665,7 +1665,7 @@
 				<item><ItemLink>112369</ItemLink><Weight>10</Weight></item> <!-- Canon Epic -->
 				<item><ItemLink>112370</ItemLink><Weight>10</Weight></item> <!-- Canon Legendary -->
 				<!-- Airships -->
-				<Item><ItemLink>117303</ItemLink><Weight>0</Weight></Item> <!-- Epic Pully (Quest-Item) -->
+				<Item><ItemLink>117303</ItemLink><Weight>10</Weight></Item> <!-- Epic Pully (Craftable) -->
 				<Item><ItemLink>116174</ItemLink><Weight>0</Weight></Item> <!-- Legendary Pully (Quest-Item) -->
 				<Item><ItemLink>116173</ItemLink><Weight>10</Weight></Item> <!-- Fjordbuster -->
 				<Item><ItemLink>116175</ItemLink><Weight>10</Weight></Item> <!-- Royal Airship Stamp Mimic -->
