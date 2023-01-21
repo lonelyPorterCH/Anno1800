@@ -178,6 +178,10 @@
       <Level>Uncommon</Level>
       <Good>114364</Good>			<!-- Hibiscus Petals (NEW) -->
     </Item>
+    <Item>
+      <Level>Uncommon</Level>
+      <Good>25506</Good>			<!-- Hot Sauce (NEW) -->
+    </Item>
   </ModOp>
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131767']/TradeLevels/Item[Unlock = '131828']/Trades">
     <Item>
