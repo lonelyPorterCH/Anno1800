@@ -1826,6 +1826,7 @@
 				<Item><ItemLink>116070</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>116100</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>116163</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>4272</ItemLink><Weight>10</Weight></Item> <!-- Arctic Science Reporter -->
 			</ItemsPool>
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
