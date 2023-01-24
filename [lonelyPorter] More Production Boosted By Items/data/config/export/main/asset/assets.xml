@@ -49,6 +49,22 @@
 			<!-- all chemical plants -->
 			<GUID>194011</GUID>
 		</Item>
+		<Item>
+			<!-- All Assembly Lines -->
+			<GUID>194023</GUID>
+		</Item>
+		<Item>
+			<!-- All Artisan's workshops -->
+			<GUID>194024</GUID>
+		</Item>
+	</ModOp>
+
+<!-- Assembly Lines: Mass Conveyor -->
+	<ModOp GUID = '190889' Path = "/Values/ItemEffect/EffectTargets" Type = "add">
+		<Item>
+			<!-- All Assembly Lines -->
+			<GUID>194023</GUID>
+		</Item>
 	</ModOp>
 
 <!-- Orchard: Add Forest Density Items -->
