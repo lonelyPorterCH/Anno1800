@@ -55,8 +55,12 @@
             <Level>Rare</Level>
             <Good>1010257</Good>        <!-- Rum -->
           </Item>
+		  <Item>
+		    <Level>Rare</Level>
+		    <Good>5385</Good>			<!-- Milch (NEW) -->
+		  </Item>
           <Item>
-            <Level>Rare</Level>
+            <Level>Epic</Level>
             <Good>5382</Good>        	<!-- Ice Cream -->
           </Item>
           <Item>
@@ -114,6 +118,10 @@
 	  <Good>120014</Good>			<!-- Trauben (NEW) -->
 	</Item>
 	<Item>
+	  <Level>Rare</Level>
+	  <Good>24807</Good>			<!-- Dung (NEW) -->
+	</Item>
+	<Item>
 	  <Level>Epic</Level>
 	  <Good>133097</Good>			<!-- Zitrusfrüchte (NEW) -->
 	</Item>
@@ -132,6 +140,10 @@
 	<Item>
 	  <Level>Rare</Level>
 	  <Good>112695</Good>		<!-- Bärenfelle (NEW) -->
+	</Item>
+	<Item>
+	  <Level>Rare</Level>
+	  <Good>5384</Good>			<!-- Nandu Leder (NEW) -->
 	</Item>
   </ModOp>
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131765']/TradeLevels/Item[Unlock = '131823']/Trades">
@@ -156,7 +168,17 @@
   </ModOp>
 
   <!-- Qinsa Mining -->
-
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131815']/TradeLevels/Item[Unlock = '131843']/Trades">
+    <Item>
+      <Level>Rare</Level>
+		<Good>120042</Good>			<!-- Bauxit -->
+	</Item>
+	<Item>
+      <Level>Rare</Level>
+	  <Good>112699</Good>			<!-- Helium -->
+	</Item>
+  </ModOp>
+  
   <!-- Old Levant &amp; Co.-->
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131767']/TradeLevels/Item[Unlock = '131825']/Trades">
     <Item>
@@ -176,14 +198,22 @@
     </Item>
     <Item>
       <Level>Uncommon</Level>
-      <Good>114364</Good>			<!-- Hibiscus Petals (NEW) -->
+      <Good>114364</Good>			<!-- Hibiscus Petals -->
     </Item>
     <Item>
       <Level>Uncommon</Level>
-      <Good>25506</Good>			<!-- Hot Sauce (NEW) -->
+      <Good>25506</Good>			<!-- Hot Sauce -->
     </Item>
   </ModOp>
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131767']/TradeLevels/Item[Unlock = '131828']/Trades">
+    <Item>
+      <Level>Rare</Level>
+      <Good>5386</Good>				<!-- Orchideen -->
+    </Item>
+	<Item>
+      <Level>Rare</Level>
+      <Good>5380</Good>				<!-- Calamares -->
+    </Item>
     <Item>
       <Level>Epic</Level>
       <Good>5383</Good>				<!-- Herbs -->
