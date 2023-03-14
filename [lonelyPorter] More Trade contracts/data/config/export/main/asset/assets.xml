@@ -171,11 +171,11 @@
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131815']/TradeLevels/Item[Unlock = '131843']/Trades">
     <Item>
       <Level>Rare</Level>
-		<Good>120042</Good>			<!-- Bauxit -->
+		<Good>836</Good>			<!-- Bauxit -->
 	</Item>
 	<Item>
       <Level>Rare</Level>
-	  <Good>112699</Good>			<!-- Helium -->
+	  <Good>840</Good>			<!-- Helium -->
 	</Item>
   </ModOp>
   
