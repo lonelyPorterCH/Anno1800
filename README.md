@@ -10,11 +10,11 @@ My variations of existing Anno 1800 Mods
 Based on "Orchard Chemicals and Telephone Production Boosted By Items" by 997962520
 
 - Chemical Plants are now in the "All production Buildings" Pool (where they should have been in the first place)
-- Chemical Plants are now boosted by electricity
 - Chemical Plants and Perfume Mixer are now boosted by Thielmanns Tube
 - Orchards are now in the "All Production Buildings"  Pool (where they should have been in the first place)
 - Telephone Factories now count as Carpenty works
 - Arborist now also works for the Herb Farm
+- Assembly Lines are now boosted by Conveyor Items (I mean, its only logical)
 
 ## More Trade Contracts
 Based on the Spice it Up Version.
@@ -78,3 +78,6 @@ Based on "All items unlocked at traders" from iksaandry
 - Added missing items from newer DLC
 - moved attractiveness slotables
 - moved Nates Inventions to Nate
+
+##  Merge Industrial ConstructionCategory
+Moves all Industrial Buildings from "DLC05 - Bright Harvest" to "CDLC 08 - Industrial Zone Menu", so all industrial ornaments are in the same category
