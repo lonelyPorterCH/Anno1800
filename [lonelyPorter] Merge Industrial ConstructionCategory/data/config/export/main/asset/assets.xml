@@ -1,0 +1,186 @@
+<ModOps>
+  <!-- CDLC 08 - Industrial Zone Menu -->
+  <ModOp Type = "replace" GUID='5731' Path="/Values/ConstructionCategory/BuildingList">
+	<BuildingList> <!-- Template: OrnamentalBuilding -->
+      <Item>
+        <Building>270038</Building> <!-- BH Ornament24 Empty Groundplane -->
+      </Item>
+      <Item>
+        <Building>388</Building>  <!-- CDLC08 RailwayHall Large -->
+      </Item>
+      <Item>
+        <Building>389</Building>  <!-- CDLC08 RailwayHall Small -->
+      </Item>
+      <Item>
+        <Building>390</Building>  <!-- CDLC08 RailwayPlatform -->
+      </Item>
+      <Item>
+        <Building>391</Building>  <!-- CDLC08 RailwayTower -->
+      </Item>
+      <Item>
+        <Building>392</Building>  <!-- CDLC08 RailwayGuard -->
+      </Item>
+      <Item>
+        <Building>393</Building>  <!-- CDLC08 RailwayCrane -->
+      </Item>
+      <Item>
+        <Building>394</Building>  <!-- CDLC08 RailwayTankOil -->
+      </Item>
+      <Item>
+        <Building>395</Building>  <!-- CDLC08 RailwayTankWater -->
+      </Item>
+      <Item>
+        <Building>396</Building>  <!-- CDLC08 RailwaySignA -->
+      </Item>
+      <Item>
+        <Building>679</Building>  <!-- CDLC08 RailwaySignB -->
+      </Item>
+      <Item>
+        <Building>681</Building>  <!-- CDLC08 RailwaySignC -->
+      </Item>
+      <Item>
+        <Building>690</Building>  <!-- CDLC08 RailwaySignD -->
+      </Item>
+      <Item>
+        <Building>691</Building>  <!-- CDLC08 RailwaySignE -->
+      </Item>
+      <Item>
+        <Building>398</Building>  <!-- CDLC08Construction Trailer -->
+      </Item>
+      <Item>
+        <Building>402</Building>  <!-- CDLC08Construction Crane -->
+      </Item>
+      <Item>
+        <Building>405</Building>  <!-- CDLC08Construction ConSite -->
+      </Item>
+      <Item>
+        <Building>407</Building>  <!-- CDLC08Construction Hammer -->
+      </Item>
+      <Item>
+        <Building>408</Building>  <!-- CDLC08Construction Saw -->
+      </Item>
+      <Item>
+        <Building>409</Building>  <!-- CDLC08Construction SanitaryPipes -->
+      </Item>
+      <Item>
+        <Building>417</Building>  <!-- CDLC08Construction CopperPipes -->
+      </Item>
+      <Item>
+        <Building>418</Building>  <!-- CDLC08Construction WaterPipes -->
+      </Item>
+      <Item>
+        <Building>1819</Building> <!-- CDLC08Construction Scaffolding -->
+      </Item>
+      <Item>
+        <Building>678</Building>  <!-- CDLC08 Fence Gate -->
+      </Item>
+      <Item>
+        <Building>1820</Building> <!-- CDLC08 Pipe System High -->
+      </Item>
+      <Item>
+        <Building>1821</Building> <!-- CDLC08 Pipe Connector -->
+      </Item>
+      <Item>
+        <Building>677</Building>  <!-- CDLC08 Pipe Gate -->
+      </Item>
+      <Item>
+        <Building>612</Building>  <!-- DEPRECATED_Xmas Citysystem Ornament End -->
+      </Item>
+      <Item>
+        <Building>613</Building>  <!-- DEPRECATED_Xmas Citysystem Ornament Cross -->
+      </Item>
+	  <!--------------------- DLC05 - Bright Harvest Industry Ornaments --------------------->
+      <Item>
+        <Building>269772</Building> <!-- BH Ornament01 Wall -->
+      </Item>
+      <Item>
+        <Building>269777</Building> <!-- BH Ornament01 Wall Gate -->
+      </Item>
+      <Item>
+        <Building>269844</Building> <!-- BH Ornament01 Wall Gate 02 -->
+      </Item>
+      <Item>
+        <Building>269779</Building> <!-- BH Ornament02 Wall Large -->
+      </Item>
+      <Item>
+        <Building>269784</Building> <!-- BH Ornament02 Wall Gate Large -->
+      </Item>
+      <Item>
+        <Building>269798</Building> <!-- BH Ornament11 Pipes -->
+      </Item>
+      <Item>
+        <Building>269799</Building> <!-- BH Ornament12 Barrel Pile -->
+      </Item>
+      <Item>
+        <Building>269800</Building> <!-- BH Ornament13 WoddenBoxes -->
+      </Item>
+      <Item>
+        <Building>269801</Building> <!-- BH Ornament14 Tanks -->
+      </Item>
+      <Item>
+        <Building>269802</Building> <!-- BH Ornament15 Water Tower -->
+      </Item>
+      <Item>
+        <Building>269804</Building> <!-- BH Ornament17 Shed -->
+      </Item>
+      <Item>
+        <Building>269805</Building> <!-- BH Ornament18 Pile Iron Bars -->
+      </Item>
+      <Item>
+        <Building>269806</Building> <!-- BH Ornament19 Pile Boxes and Barrels -->
+      </Item>
+      <Item>
+        <Building>269807</Building> <!-- BH Ornament20 Heap -->
+      </Item>
+      <Item>
+        <Building>269808</Building> <!-- BH Ornament21 Large Boxes-->
+      </Item>
+      <Item>
+        <Building>269809</Building> <!-- BH Ornament22 Gangway -->
+      </Item>
+      <Item>
+        <Building>118231</Building> <!-- twitchdrops_ornament_flag_bright_harvest -->
+      </Item>
+      <Item>
+        <Building>118232</Building> <!-- twitchdrops_ornament_billboard_bright_harvest -->
+      </Item>
+    </BuildingList>
+  </ModOp>
+  
+  <!-- DLC05 - Bright Harvest -->
+  <ModOp Type = "replace" GUID='5993' Path="/Values/ConstructionCategory/BuildingList">
+	<BuildingList>
+	  <!-------------------------------- Farming Ornaments -------------------------------->
+      <Item>
+        <Building>269785</Building> <!-- BH Ornament03 Fence -->
+      </Item>
+      <Item>
+        <Building>269790</Building> <!-- BH Ornament03 Fence Gate -->
+      </Item>
+      <Item>
+        <Building>269791</Building> <!-- BH Ornament04 Flatbed Wagon -->
+      </Item>
+      <Item>
+        <Building>269792</Building> <!-- BH Ornament05 Scarecrow -->
+      </Item>
+      <Item>
+        <Building>269793</Building> <!-- BH Ornament06 LogPile -->
+      </Item>
+      <Item>
+        <Building>269794</Building> <!-- BH Ornament07 Outhouse -->
+      </Item>
+      <Item>
+        <Building>269795</Building> <!-- BH Ornament08 Signpost -->
+      </Item>
+      <Item>
+        <Building>269796</Building> <!-- BH Ornament09 HayBalePile -->
+      </Item>
+      <Item>
+        <Building>269797</Building> <!-- BH Ornament10 Swing -->
+      </Item>
+      <Item>
+        <Building>269842</Building> <!-- BH Ornament23 Clothes Line -->
+      </Item>
+    </BuildingList>
+  </ModOp>
+</ModOps>
