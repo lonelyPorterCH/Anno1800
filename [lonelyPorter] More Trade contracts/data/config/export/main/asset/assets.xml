@@ -34,6 +34,10 @@
             <Level>Uncommon</Level>
             <Good>1010239</Good>	    <!-- Zucker (NEW) -->
           </Item>
+		  <Item>
+			<Level>Uncommon</Level>
+			<Good>114368</Good>			<!-- Salt (NEW) -->
+		  </Item>
           <Item>
             <Level>Rare</Level>
             <Good>1010214</Good>        <!-- Bier -->
@@ -111,8 +115,16 @@
 	  <Level>Uncommon</Level>
 	  <Good>1010253</Good>	    <!-- Baumwolle (NEW) -->
 	</Item>
+	<Item>
+	  <Level>Uncommon</Level>
+	  <Good>114371</Good>	    <!-- Goat Milk (NEW) -->
+	</Item>
   </ModOp>
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131819']/TradeLevels/Item[Unlock = '131852']/Trades">
+	<Item>
+	  <Level>Rare</Level>
+	  <Good>114365</Good>			<!-- Linseed (NEW) -->
+	</Item>
 	<Item>
 	  <Level>Rare</Level>
 	  <Good>120014</Good>			<!-- Trauben (NEW) -->
@@ -212,6 +224,10 @@
     </Item>
 	<Item>
       <Level>Rare</Level>
+      <Good>114359</Good>				<!-- Dried Meet -->
+    </Item>
+	<Item>
+      <Level>Rare</Level>
       <Good>5380</Good>				<!-- Calamares -->
     </Item>
     <Item>
@@ -238,6 +254,10 @@
 
   <!-- KITEA-->
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131811']/TradeLevels/Item[Unlock = '131836']/Trades">
+	<Item>
+      <Level>Epic</Level>
+      <Good>118724</Good>			<!-- Ceramics -->
+    </Item>
     <Item>
       <Level>Epic</Level>
       <Good>135086</Good>			<!-- Harz -->
