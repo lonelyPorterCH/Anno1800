@@ -6,16 +6,16 @@
         <Unlock>131829</Unlock>
         <Trades>
           <Item>
-            <Good>1010200</Good>        <!-- Fische -->
+            <Good>1010200</Good>        <!-- Fish -->
           </Item>
           <Item>
             <Good>1010216</Good>        <!-- Schnaps -->
           </Item>
           <Item>
-            <Good>1010238</Good>        <!-- Wurst -->
+            <Good>1010238</Good>        <!-- Sausage -->
           </Item>
           <Item>
-            <Good>1010235</Good>          <!-- Mehl (NEW) -->
+            <Good>1010235</Good>        <!-- Mehl (NEW) -->
           </Item>
         </Trades>
       </Item>
@@ -36,7 +36,7 @@
           </Item>
 		  <Item>
 			<Level>Uncommon</Level>
-			<Good>114368</Good>			<!-- Salt (NEW) -->
+			<Good>114358</Good>			<!-- Salt (NEW) -->
 		  </Item>
           <Item>
             <Level>Rare</Level>
@@ -105,6 +105,9 @@
 	<Item>
 	  <Good>1010251</Good>		<!-- Zuckerrohr (NEW) -->
 	</Item>
+	<Item>
+	  <Good>114371</Good>	    <!-- Goat Milk (NEW) -->
+	</Item>
   </ModOp>
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131819']/TradeLevels/Item[Unlock = '131851']/Trades">
 	<Item>
@@ -114,10 +117,6 @@
 	<Item>
 	  <Level>Uncommon</Level>
 	  <Good>1010253</Good>	    <!-- Baumwolle (NEW) -->
-	</Item>
-	<Item>
-	  <Level>Uncommon</Level>
-	  <Good>114371</Good>	    <!-- Goat Milk (NEW) -->
 	</Item>
   </ModOp>
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131819']/TradeLevels/Item[Unlock = '131852']/Trades">
@@ -177,17 +176,25 @@
 	  <Level>Legendary</Level>
 	  <Good>5388</Good>			<!-- Perfumes (NEW) -->
 	</Item>
+	<Item>
+	  <Level>Legendary</Level>
+	  <Good>5389</Good>			<!-- Costumes (NEW) -->
+	</Item>
   </ModOp>
 
   <!-- Qinsa Mining -->
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131815']/TradeLevels/Item[Unlock = '131843']/Trades">
     <Item>
       <Level>Rare</Level>
-		<Good>836</Good>			<!-- Bauxit -->
+		<Good>836</Good>		<!-- Bauxit -->
 	</Item>
 	<Item>
       <Level>Rare</Level>
 	  <Good>840</Good>			<!-- Helium -->
+	</Item>
+	<Item>
+      <Level>Rare</Level>
+	  <Good>5398</Good>			<!-- Minerals -->
 	</Item>
   </ModOp>
   
@@ -319,11 +326,19 @@
         <Trades>
           <Item>
             <Level>Rare</Level>
+            <Good>112702</Good>          <!-- Oil Lamps (NEW) -->
+          </Item>
+          <Item>
+            <Level>Rare</Level>
             <Good>1010224</Good>          <!-- Steam Motors (NEW) -->
           </Item>
           <Item>
             <Level>Rare</Level>
             <Good>1010208</Good>          <!-- Glühbirnen -->
+          </Item>
+          <Item>
+            <Level>Epic</Level>
+            <Good>117699</Good>          <!-- Lanterns (NEW) -->
           </Item>
           <Item>
             <Level>Epic</Level>
@@ -336,6 +351,10 @@
           <Item>
             <Level>Epic</Level>
             <Good>838</Good>          	<!-- Aluminiumprofil (NEW) -->
+          </Item>
+          <Item>
+            <Level>Legendary</Level>
+            <Good>6280</Good>           <!-- Electtric Cables -->
           </Item>
           <Item>
             <Level>Legendary</Level>
@@ -385,6 +404,10 @@
 	<Item>
 	  <Level>Legendary</Level>
 	  <Good>5391</Good>		<!-- Roller (NEW) -->
+	</Item>
+	<Item>
+	  <Level>Legendary</Level>
+	  <Good>5392</Good>		<!-- Film Reel (NEW) -->
 	</Item>
   </ModOp>
 
