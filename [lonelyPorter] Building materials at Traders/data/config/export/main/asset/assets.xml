@@ -14,6 +14,10 @@
       <Good>112523</Good>
       <ProductionPerMinute>7</ProductionPerMinute>
     </Item>
+    <Item>
+      <Good>115980</Good>
+      <ProductionPerMinute>7</ProductionPerMinute>
+    </Item>
   </ModOp>
 
   <ModOp Type="add" GUID='77' Path="/Values/Trader/Progression/EndGame/OfferingGoods/Item/GoodSets">
@@ -25,6 +29,9 @@
     </Item>
     <Item>
       <Good>112523</Good>
+    </Item>
+    <Item>
+      <Good>115980</Good>
     </Item>
   </ModOp>
 
