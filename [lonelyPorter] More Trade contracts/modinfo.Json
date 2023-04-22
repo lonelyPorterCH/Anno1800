@@ -1,6 +1,6 @@
 {
   "Version": "1",
-  "ModID": "Spice_TradeContracts",
+  "ModID": "Spice_TradeContracts_Upgrade",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
@@ -31,9 +31,9 @@
   },
   "Description": {
     "Chinese": null,
-    "English": "Includes now aswell: Bricks, Steelbeams, Windows, Reinforced Concrete, Polarbear Fur, Sealskin, Paper, Hummer, Chronicles and Gas",
+    "English": "Includes now aswell: Bricks, Steelbeams, Windows, Reinforced Concrete, Polarbear Fur, Sealskin, Paper, Hummer, Chronicles, Gas and more",
     "French": null,
-    "German": "Beinhaltet: Ziegel, Stahlträger, Fenster, Stahlbeton, Bärenfell, Robbenfell, Papier, Hummer, Chroniken und Gas",
+    "German": "Beinhaltet: Ziegel, Stahlträger, Fenster, Stahlbeton, Bärenfell, Robbenfell, Papier, Hummer, Chroniken, Gas und mehr",
     "Italian": null,
     "Japanese": null,
     "Korean": null,
@@ -49,7 +49,7 @@
       "Dependant": "required"
     }
   ],
-  "CreatorName": "Spice it up-Team: DaLexy",
-  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "CreatorName": "lonelyPorter",
+  "CreatorContact": "lonelyPorterCH#8997",
   "Image" : null
 }

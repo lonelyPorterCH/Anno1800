@@ -99,6 +99,11 @@
 
   <!-- Tattershire Farms (replace command didn't work, adding instead) -->
   <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/Item[TraderName = '131819']/TradeLevels/Item[Unlock = '131850']/Trades">
+	<!-- Temp shizzle -->
+	<Item>
+	  <Good>24808</Good>		<!-- Dünger -->
+	</Item>
+	<!-- Actual Mod -->
 	<Item>
 	  <Good>120036</Good>		<!-- Alpakawolle (NEW) -->
 	</Item>
@@ -410,5 +415,59 @@
 	  <Good>5392</Good>		<!-- Film Reel (NEW) -->
 	</Item>
   </ModOp>
-
+  
+  <!-- New Trader Ruag -->
+  <ModOp Type = "add" GUID='131764' Path="/Values/TradeContractFeature/Traders/">
+	<Item>
+		<TraderName>2000131813</TraderName> <!-- Same GUID as annozone Trader Mod -->
+		<TraderDesc>2000131814</TraderDesc> <!-- Same GUID as annozone Trader Mod -->
+        <TradeLevels>
+          <Item>
+            <Unlock>131849</Unlock>			<!-- Always True -->
+            <Trades>
+				<Item>
+				  <Good>1010221</Good>		<!-- Weapons  -->
+				</Item>
+				<Item>
+				  <Good>1010210</Good>		<!-- Sails  -->
+				</Item>
+              	<Item>
+				  <Level>Epic</Level>
+				  <Good>846</Good>			<!-- Bombs  -->
+				</Item>
+				<Item>
+				  <Level>Epic</Level>
+				  <Good>847</Good>			<!-- Sea Mines -->
+				</Item>
+				<Item>
+				  <Level>Epic</Level>
+				  <Good>848</Good>			<!-- Pamphlets -->
+				</Item>
+				<Item>
+				  <Level>Epic</Level>
+				  <Good>849</Good>			<!-- Care Packages  -->
+				</Item>
+				<Item>
+				  <Level>Epic</Level>
+				  <Good>850</Good>			<!-- Water Drop  -->
+				</Item>
+				<Item>
+				  <Level>Epic</Level>
+				  <Good>5393</Good>			<!-- Fire Extinguishers  -->
+				</Item>
+				<Item>
+				  <Level>Epic</Level>
+				  <Good>5394</Good>			<!-- Police equipment  -->
+				</Item>
+				<Item>
+				  <Level>Legendary</Level>
+				  <Good>1010223</Good>		<!-- Advanced Weapons -->
+				</Item>
+            </Trades>
+          </Item>
+        </TradeLevels>
+			<TraderIcon>data/ui/2kimages/main/3dicons/trader_docklands/icon_ruag.png</TraderIcon>
+			<TraderMoodImage>data/ui/2kimages/main/assets/import_traders/bgr_tradepartner_banner_ruag.png</TraderMoodImage>
+      </Item>
+	</ModOp>
 </ModOps>
