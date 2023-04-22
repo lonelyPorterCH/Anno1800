@@ -18,59 +18,8 @@ Based on "Orchard Chemicals and Telephone Production Boosted By Items" by 997962
 
 ## More Trade Contracts
 Based on the Spice it Up Version.
-Adds mutliple new goods from DLC to docklands:
-- FEEDL
-  - Flour
-  - Sugar
-  - Ice Cream
-- Tattershire Farms
-  - Alpaca Wool
-  - Sugar Cane
-  - Teff
-  - Cotton
-  - Grapes
-  - Citrus
-  - Nandu Feathers
-- Chanteuse
-  - Seal Skin
-  - Bear Fur
-  - Shampoo
-  - Paper
-  - Chewing Gum
-  - Perfumes
-- Old Levant & Co.
-  - Fish Oil
-  - Whale Oil
-  - Coffee Beans
-  - Cocoa
-  - Hibiscus Petals
-  - Herbs
-  - Lobster
-  - Cinnamon
-  - Coconut Oil
-  - Mezcal
-- KITEA
-  - Resin
-  - Cherry Wood
-  - Camphor Wax
-  - Souveniers
-- Promise Trust
-  - Bricks
-  - Steel Beams
-  - Steam Motors
-  - Windows
-  - Reinforced Concrete
-  - Aluminium Profiles
-  - Laquer
-  - Celluloid
-  - Elevators
-- Ganymedia
-  - Typewriters
-  - Billiard Tables
-  - Violins
-  - Toys
-  - Ventilators
-  - Rollers
+Adds mutliple new goods from DLC to docklands, including a new Weapon exporter called RAUG:
+![New Trade Contracts](MoreTradeContracts.jpg)
  
 ## NPC Dice Reworked
 Based on "All items unlocked at traders" from iksaandry
