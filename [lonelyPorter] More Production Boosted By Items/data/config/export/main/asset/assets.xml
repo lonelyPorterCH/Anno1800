@@ -1,6 +1,4 @@
 <ModOps>
-<!-- Add Thermometer Items to Chemical plants, add electicity, add general Items -->
-	
 	<!-- Hervé Savonne (Prodictivity +50%, workforce -50%, produces dynamite -->
 	<ModOp GUID = '191319' Path = "/Values/ItemEffect/EffectTargets" Type = "add">
 		<Item>
@@ -28,13 +26,6 @@
 		<Item>
 			<!-- Perfume Mixer -->
 			<GUID>5657</GUID>
-		</Item>
-	</ModOp>
-	<!-- Electricity -->
-	<ModOp GUID = '193875' Path = "/Values/ItemEffectTargetPool/EffectTargetGUIDs" Type = "add">
-		<Item>
-			<!-- all chemical plants -->
-			<GUID>194011</GUID>
 		</Item>
 	</ModOp>
 
@@ -66,33 +57,13 @@
 			<GUID>194023</GUID>
 		</Item>
 	</ModOp>
-
-<!-- Orchard: Add Forest Density Items -->
 	
-	<!-- Ursula Green -->
-	<ModOp GUID = '190739' Path = "/Values/ItemEffect/EffectTargets" Type = "add">
-		<Item>
-			<!-- all Orchards -->
-			<GUID>194008</GUID>
-		</Item>
-	</ModOp>
-	<!-- Teutonic Technical Secateurs -->
-	<ModOp GUID = '190858' Path = "/Values/ItemEffect/EffectTargets" Type = "add">
-		<Item>
-			<!-- all Orchards -->
-			<GUID>194008</GUID>
-		</Item>
-	</ModOp>
-	<!-- Druid Sickle -->
-	<ModOp GUID = '190857' Path = "/Values/ItemEffect/EffectTargets" Type = "add">
-		<Item>
-			<!-- all Orchards -->
-			<GUID>194008</GUID>
-		</Item>
+	<!-- Multifactory_Assembly_Cookies - increase Storage Amount -->
+	<ModOp GUID = '135361' Path = "/Values/FactoryBase/FactoryInputs/Item/StorageAmount" Type = "replace">
+		<StorageAmount>8</StorageAmount>
 	</ModOp>
 
 <!-- Telephone Factory: Add to Carpentry Works Itempool -->
-
 	<!-- all carpentry works-->
 	<ModOp GUID = '190914' Path = "/Values/ItemEffectTargetPool/EffectTargetGUIDs" Type = "add">
 		<Item>
@@ -102,7 +73,7 @@
 	</ModOp>
 	
 <!-- Herb Farm Add Arborist -->
-		<!-- Arborist -->
+	<!-- Arborist -->
 	<ModOp GUID = '190690' Path = "/Values/ItemEffect/EffectTargets" Type = "add">
 		<Item>
 			<!-- Herb Farm -->
