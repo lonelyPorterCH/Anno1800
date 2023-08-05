@@ -2,11 +2,13 @@
 My variations of existing Anno 1800 Mods
 
 ## Building materials at Traders
+![Building materials at Traders](BuildingMatAtTraders.png)
 - Archibald now sells all the building materials
 - Nate now Sells Scrap
 - Isabel now also sells Building materials
 
 ## More Production Boosted By Items
+![Item Boost](ItemBoost.png)
 Based on "Orchard Chemicals and Telephone Production Boosted By Items" by 997962520
 
 - Chemical Plants are now in the "All production Buildings" Pool (where they should have been in the first place)
@@ -22,6 +24,7 @@ Adds mutliple new goods from DLC to docklands, including a new Weapon exporter c
 ![New Trade Contracts](MoreTradeContracts.jpg)
  
 ## NPC Dice Reworked
+![Dice Rework](NPCDiceReworked.png)
 Based on "All items unlocked at traders" from iksaandry
 - removed quest specific Slotables
 - Added missing items from newer DLC
