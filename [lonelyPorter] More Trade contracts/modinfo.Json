@@ -1,6 +1,6 @@
 {
   "Version": "1",
-  "ModID": "Spice_TradeContracts_Upgrade",
+  "ModID": "lonelyPorter_TradeContracts_Upgrade",
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
@@ -18,9 +18,9 @@
   },
   "ModName": {
     "Chinese": null,
-    "English": "Dockland Goods",
+    "English": "Improved Dockland Goods",
     "French": null,
-    "German": "Dockland-Handelswaren",
+    "German": "Verbesserte Dockland-Handelswaren",
     "Italian": null,
     "Japanese": null,
     "Korean": null,
@@ -31,9 +31,9 @@
   },
   "Description": {
     "Chinese": null,
-    "English": "Includes now aswell: Bricks, Steelbeams, Windows, Reinforced Concrete, Polarbear Fur, Sealskin, Paper, Hummer, Chronicles, Gas and more",
+    "English": "Based on the Spice it Up Version. Adds multiple new goods to docklands, including a new Weapon exporter called RAUG.",
     "French": null,
-    "German": "Beinhaltet: Ziegel, Stahlträger, Fenster, Stahlbeton, Bärenfell, Robbenfell, Papier, Hummer, Chroniken, Gas und mehr",
+    "German": "Fügt weitere Güter zu den Dockland-Handelswaren. Enthält einen Neuen Händler namens RAUG, welcher Waffen verkauft",
     "Italian": null,
     "Japanese": null,
     "Korean": null,
