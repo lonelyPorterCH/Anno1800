@@ -1,0 +1,41 @@
+{
+  "Version": "1.0.1",
+  "ModID": "lonelyPorter_building_material_trader",
+  "Category": {
+    "Chinese": "Gameplay",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese" "Gameplay",
+  },
+  "ModName": {
+    "Chinese": "All Building materials at Traders",
+    "English": "All Building materials at Traders",
+    "French": "All Building materials at Traders",
+    "German": "Alle Baumaterialien bei Händlern",
+    "Italian": "All Building materials at Traders",
+    "Korean": "All Building materials at Traders",
+    "Polish": "All Building materials at Traders",
+    "Russian": "All Building materials at Traders",
+    "Spanish": "All Building materials at Traders",
+    "Taiwanese": "All Building materials at Traders",
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Archie and Isabel now sell all of the building materials. Nate also sells Scrap now.",
+    "French": null,
+    "German": "Archie und Isabel verkaufen jetzt alle Baumaterialien. Nate verkauft ausserdem Schrott",
+    "Italian": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "CreatorName": "lonelyPorter"
+}
