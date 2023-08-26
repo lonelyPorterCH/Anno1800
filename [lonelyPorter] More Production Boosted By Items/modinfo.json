@@ -1,0 +1,47 @@
+{
+  "Version": "1.0.1",
+  "ModID": "lonelyPorter_Item_Boost",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Rozgrywka",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "More Production Boosted By Items",
+    "French": null,
+    "German": "Mehr Produktions-Verbesserungs-Items",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Chemical Plants, Orchards and other productions get boosted by more existing items",
+    "French": null,
+    "German": "Chemiefabriken, Baumschulen und weitere Produktionen werden durch weitere existierende Items verbessert",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "CreatorName": "lonelyPorter",
+  "CreatorContact": "lonelyPorterCH#8997"
+}
