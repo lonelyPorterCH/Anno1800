@@ -63,12 +63,16 @@
 		<StorageAmount>8</StorageAmount>
 	</ModOp>
 
-<!-- Telephone Factory: Add to Carpentry Works Itempool -->
+<!-- Carpentry Works Itempool -->
 	<!-- all carpentry works-->
 	<ModOp GUID = '190914' Path = "/Values/ItemEffectTargetPool/EffectTargetGUIDs" Type = "add">
 		<Item>
 			<!-- Telephone Factory -->
 			<GUID>118735</GUID>
+		</Item>
+		<Item>
+			<!-- Cigar Factory -->
+			<GUID>1010342</GUID>
 		</Item>
 	</ModOp>
 	
