@@ -68,6 +68,8 @@
 				<Item><ItemLink>116100</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>116163</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>4272</ItemLink><Weight>10</Weight></Item> <!-- Arctic Science Reporter -->
+				<Item><ItemLink>7225</ItemLink><Weight>10</Weight></Item> <!-- Bait Specialist -->
+				<Item><ItemLink>1772</ItemLink><Weight>10</Weight></Item> <!-- Artic Gas Expert -->
 			</ItemsPool>
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>

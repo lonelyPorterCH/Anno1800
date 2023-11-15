@@ -513,6 +513,9 @@
 				<item><ItemLink>191570</ItemLink><Weight>0</Weight></item> <!-- Members Club Specialist -->
 				<item><ItemLink>191576</ItemLink><Weight>0</Weight></item> <!-- Bank Specialist -->
 				<item><ItemLink>136699</ItemLink><Weight>1</Weight></item> <!-- Concierge -->
+            <item><ItemLink>11657</ItemLink><Weight>0</Weight></item>  <!-- Aldea, the Forest Warden (Scenario: Echoes of Eden) -->
+            <item><ItemLink>11670</ItemLink><Weight>0</Weight></item>  <!-- Lucia, Keeper of the Calendar (Scenario: Echoes of Eden) -->
+            <item><ItemLink>11672</ItemLink><Weight>0</Weight></item>  <!-- Elinor, the Red Reaper (Scenario: Echoes of Eden) -->
 				<!-- Books -->
 				<item><ItemLink>191690</ItemLink><Weight>0</Weight></item> <!-- Public Service Maintenance + -->
 				<item><ItemLink>191693</ItemLink><Weight>0</Weight></item> <!-- Public Service Maintenance - -->
@@ -562,6 +565,9 @@
 				<item><ItemLink>192033</ItemLink><Weight>0</Weight></item> <!-- Bicycle Repair Kit -->
 				<item><ItemLink>192034</ItemLink><Weight>0</Weight></item> <!-- Sweing Threads -->
 				<item><ItemLink>192035</ItemLink><Weight>0</Weight></item> <!-- Tinned Fish -->
+				<item><ItemLink>11655</ItemLink><Weight>0</Weight></item>  <!-- Distiller (Scenario: Echoes of Eden) -->
+				<item><ItemLink>11656</ItemLink><Weight>0</Weight></item>  <!-- Communal Garden (Scenario: Echoes of Eden) -->
+				<item><ItemLink>11653</ItemLink><Weight>0</Weight></item>  <!-- Soil Sampler (Scenario: Echoes of Eden) -->
 				<!-- Exhebitions -->
 				<item><ItemLink>191696</ItemLink><Weight>0</Weight></item> <!-- Billboard -->
 				<item><ItemLink>191705</ItemLink><Weight>0</Weight></item> <!-- Green Flyer -->
@@ -592,6 +598,7 @@
 				<item><ItemLink>191577</ItemLink><Weight>10</Weight></item> <!-- Bank Specialist -->
 				<item><ItemLink>137799</ItemLink><Weight>10</Weight></item> <!-- Blue Skies Janitor -->
 				<item><ItemLink>137798</ItemLink><Weight>10</Weight></item> <!-- Blue Skies Maid -->
+				<item><ItemLink>13634</ItemLink><Weight>0</Weight></item>  <!-- Treasure Hunter (Scenario: Memoirs of Markets) -->
 				<!-- Books -->
 				<item><ItemLink>191691</ItemLink><Weight>0</Weight></item> <!-- Public Service Maintenance + -->
 				<item><ItemLink>191694</ItemLink><Weight>0</Weight></item> <!-- Public Service Maintenance - -->

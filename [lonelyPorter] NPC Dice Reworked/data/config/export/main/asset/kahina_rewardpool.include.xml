@@ -5,16 +5,38 @@
 			<ItemsPool>
 				<!-- Pathway Ornaments -->
 				<item><ItemLink>114870</ItemLink><Weight>10</Weight></item>
-				<item><ItemLink>114878</ItemLink><Weight>10</Weight></item>
 				<item><ItemLink>114886</ItemLink><Weight>10</Weight></item>
-				<item><ItemLink>114876</ItemLink><Weight>10</Weight></item>
 				<item><ItemLink>114868</ItemLink><Weight>10</Weight></item>
 				<item><ItemLink>114880</ItemLink><Weight>10</Weight></item>
-				<item><ItemLink>114882</ItemLink><Weight>10</Weight></item>
-				<item><ItemLink>114874</ItemLink><Weight>10</Weight></item>
-				<item><ItemLink>114884</ItemLink><Weight>10</Weight></item>
-				<item><ItemLink>114888</ItemLink><Weight>10</Weight></item>
-				<item><ItemLink>114872</ItemLink><Weight>10</Weight></item>
+            <item><ItemLink>114884</ItemLink><Weight>10</Weight></item>
+            <item><ItemLink>114888</ItemLink><Weight>10</Weight></item>
+            <item><ItemLink>114872</ItemLink><Weight>10</Weight></item>
+            <Item><ItemLink>114816</ItemLink><Weight>10</Weight></Item>
+            <Item><ItemLink>114857</ItemLink><Weight>10</Weight></Item>
+            <Item><ItemLink>114858</ItemLink><Weight>10</Weight></Item>
+            <Item><ItemLink>114862</ItemLink><Weight>10</Weight></Item>
+            <Item><ItemLink>114864</ItemLink><Weight>10</Weight></Item>
+            <Item><ItemLink>114865</ItemLink><Weight>10</Weight></Item>
+            <Item><ItemLink>114866</ItemLink><Weight>10</Weight></Item>
+            <Item><ItemLink>114867</ItemLink><Weight>10</Weight></Item>
+            <Item><ItemLink>114869</ItemLink><Weight>10</Weight></Item>
+            <Item><ItemLink>114871</ItemLink><Weight>10</Weight></Item>
+            <Item><ItemLink>114879</ItemLink><Weight>10</Weight></Item>
+            <Item><ItemLink>114885</ItemLink><Weight>10</Weight></Item>
+            <Item><ItemLink>114887</ItemLink><Weight>10</Weight></Item>
+            <Item><ItemLink>114863</ItemLink><Weight>10</Weight></Item>
+            <item><ItemLink>114881</ItemLink><Weight>10</Weight></item> <!-- Marigold -->
+            <item><ItemLink>114882</ItemLink><Weight>10</Weight></item> <!-- Marigold -->
+            <item><ItemLink>114883</ItemLink><Weight>10</Weight></item> <!-- Marigold -->
+            <Item><ItemLink>114859</ItemLink><Weight>10</Weight></Item> <!-- Petunia -->
+            <Item><ItemLink>114873</ItemLink><Weight>10</Weight></Item> <!-- Petunia -->
+            <item><ItemLink>114874</ItemLink><Weight>10</Weight></item> <!-- Petunia -->
+            <Item><ItemLink>114860</ItemLink><Weight>10</Weight></Item> <!-- Hibiscus -->
+            <Item><ItemLink>114875</ItemLink><Weight>10</Weight></Item> <!-- Hibiscus -->
+            <item><ItemLink>114876</ItemLink><Weight>10</Weight></item> <!-- Hibiscus -->
+            <Item><ItemLink>114861</ItemLink><Weight>10</Weight></Item> <!-- Gentian -->
+            <Item><ItemLink>114877</ItemLink><Weight>10</Weight></Item> <!-- Gentian -->
+            <item><ItemLink>114878</ItemLink><Weight>10</Weight></item> <!-- Gentian -->
 				<!-- Music Pavilion -->
 				<item><ItemLink>114152</ItemLink><Weight>10</Weight></item>
 				<item><ItemLink>112487</ItemLink><Weight>10</Weight></item>

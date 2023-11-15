@@ -67,10 +67,17 @@
 				<item><ItemLink>112370</ItemLink><Weight>10</Weight></item> <!-- Canon Legendary -->
 				<!-- Airships -->
 				<Item><ItemLink>117303</ItemLink><Weight>10</Weight></Item> <!-- Epic Pully (Craftable) -->
-				<Item><ItemLink>116174</ItemLink><Weight>0</Weight></Item> <!-- Legendary Pully (Quest-Item) -->
+				<Item><ItemLink>116174</ItemLink><Weight>0</Weight></Item>  <!-- Legendary Pully (Quest-Item) -->
 				<Item><ItemLink>116173</ItemLink><Weight>10</Weight></Item> <!-- Fjordbuster -->
 				<Item><ItemLink>116175</ItemLink><Weight>10</Weight></Item> <!-- Royal Airship Stamp Mimic -->
 				<Item><ItemLink>117302</ItemLink><Weight>10</Weight></Item> <!-- Sports Gondola -->
+				<Item><ItemLink>4132</ItemLink><Weight>10</Weight></Item>   <!-- Antriebsmechanikerin -->
+				<Item><ItemLink>4133</ItemLink><Weight>10</Weight></Item>   <!-- Frachtverlader -->
+				<Item><ItemLink>4134</ItemLink><Weight>10</Weight></Item>   <!-- Amelia Coleman -->
+				<Item><ItemLink>4135</ItemLink><Weight>10</Weight></Item>   <!-- Willa Cochran -->
+				<Item><ItemLink>2226</ItemLink><Weight>10</Weight></Item>   <!-- Elie Airship Gunner -->
+				<Item><ItemLink>2232</ItemLink><Weight>10</Weight></Item>   <!-- Airship Munitions Loader -->
+				<Item><ItemLink>4117</ItemLink><Weight>10</Weight></Item>   <!-- Airship Technician -->
 				<!-- Salvager -->
 				<Item><ItemLink>112550</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>112556</ItemLink><Weight>10</Weight></Item>

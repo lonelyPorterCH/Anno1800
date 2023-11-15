@@ -76,7 +76,24 @@
 				<Item><ItemLink>192947</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>192948</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>192949</ItemLink><Weight>10</Weight></Item>
-				<!-- Zoo -->
+				<Item><ItemLink>118137</ItemLink><Weight>10</Weight></Item> <!-- Arabesque Trinkets -->
+				<Item><ItemLink>118148</ItemLink><Weight>10</Weight></Item> <!-- The Holy Book -->
+            <Item><ItemLink>6055</ItemLink><Weight>10</Weight></Item>   <!-- Quipu (Malching Harbour Item) -->
+            <!-- Museum Quest or Scenario Items -->
+            <Item><ItemLink>130945</ItemLink><Weight>0</Weight></Item>  <!-- Chronicles of Enbesa Uncommon (Quest-Item) -->
+            <Item><ItemLink>130939</ItemLink><Weight>0</Weight></Item>  <!-- Chronicles of Enbesa Rare (Quest-Item) -->
+            <Item><ItemLink>130938</ItemLink><Weight>0</Weight></Item>  <!-- Chronicles of Enbesa Epic (Quest-Item) -->
+            <Item><ItemLink>104827</ItemLink><Weight>0</Weight></Item>  <!-- Simon Samrentos Sword (Harbour Item Vincente) -->
+            <Item><ItemLink>104828</ItemLink><Weight>0</Weight></Item>  <!-- Idol of Hueyaca (Harbour Item Lady Hunt) -->
+            <Item><ItemLink>13642</ItemLink><Weight>0</Weight></Item>   <!-- Silver Dragon (Scenario: Silver Strongbox) -->
+            <Item><ItemLink>11693</ItemLink><Weight>0</Weight></Item>   <!-- Herbalist's Field Journal (Scenario: Echoes of Eden) -->
+            <Item><ItemLink>13896</ItemLink><Weight>0</Weight></Item>   <!-- Widdershins Stamp (Scenario: Paloma's Precious Parcel) -->
+            <Item><ItemLink>13898</ItemLink><Weight>0</Weight></Item>   <!-- Socialite Stamp (Scenario: Paloma's Precious Parcel) -->
+            <Item><ItemLink>13300</ItemLink><Weight>0</Weight></Item>   <!-- Simon Samrentos Sword (Scenario: Memoirs of Markets) -->
+            <Item><ItemLink>13301</ItemLink><Weight>0</Weight></Item>   <!-- Idol of Hueyaca (Scenario: Memoirs of Markets) -->
+            <!-- Zoo -->
+            <Item><ItemLink>124041</ItemLink><Weight>10</Weight></Item> <!-- Pygym Hedgehog (Common) -->
+            <Item><ItemLink>124074</ItemLink><Weight>10</Weight></Item> <!-- Eastern Giant Snail (Common) -->
 				<Item><ItemLink>112818</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>113469</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>113907</ItemLink><Weight>10</Weight></Item>
@@ -120,6 +137,9 @@
 				<Item><ItemLink>191110</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>191111</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>192331</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>191085</ItemLink><Weight>10</Weight></Item> <!-- Bat Eared Fennec (Rare) -->
+				<Item><ItemLink>190460</ItemLink><Weight>10</Weight></Item> <!-- Spitting Cobra (Rare) -->
+				<Item><ItemLink>190461</ItemLink><Weight>10</Weight></Item> <!-- Curly Hair Tarantula (Uncommon) -->
 				<!-- Botanical Garden -->
 				<Item><ItemLink>114540</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>114541</ItemLink><Weight>10</Weight></Item>

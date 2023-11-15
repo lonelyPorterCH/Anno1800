@@ -26,7 +26,7 @@
 				<!-- Machines -->
 				<item><ItemLink>191879</ItemLink><Weight>0</Weight></item> <!-- Tool Box -->
 				<item><ItemLink>191883</ItemLink><Weight>0</Weight></item> <!-- Repair Crane -->
-				<item><ItemLink>191888</ItemLink><Weight>0</Weight></item> <!--  Megaphone -->
+				<item><ItemLink>191888</ItemLink><Weight>0</Weight></item> <!-- Megaphone -->
 				<item><ItemLink>191894</ItemLink><Weight>0</Weight></item> <!-- Shipyard Crane -->
 				<item><ItemLink>190902</ItemLink><Weight>0</Weight></item> <!-- Fishing Net -->
 				<item><ItemLink>191900</ItemLink><Weight>0</Weight></item> <!-- Oyster Spawn -->
@@ -42,6 +42,7 @@
 				<item><ItemLink>190696</ItemLink><Weight>10</Weight></item> <!-- Shipyard Specialist -->
 				<item><ItemLink>191434</ItemLink><Weight>10</Weight></item> <!-- Turret Specialist -->
 				<item><ItemLink>190682</ItemLink><Weight>10</Weight></item> <!-- Moorig Specialist -->
+				<item><ItemLink>13645</ItemLink><Weight>0</Weight></item>   <!-- Vasco's Lieutenant (Scenario: Silver Strongbox) -->
 				<!-- Machines -->
 				<item><ItemLink>191880</ItemLink><Weight>10</Weight></item> <!-- Tool Box -->
 				<item><ItemLink>191884</ItemLink><Weight>10</Weight></item> <!-- Repair Crane -->
@@ -119,6 +120,7 @@
 				<item><ItemLink>192005</ItemLink><Weight>0</Weight></item> <!-- Chain Shots -->
 				<item><ItemLink>192164</ItemLink><Weight>0</Weight></item> <!-- Mortar -->
 				<item><ItemLink>192184</ItemLink><Weight>0</Weight></item> <!-- Torpedo -->
+				<item><ItemLink>1516</ItemLink><Weight>0</Weight></item>   <!-- Rocket Salvo -->
 				<!-- Rare -->
 				<item><ItemLink>110966</ItemLink><Weight>10</Weight></item> <!-- Anarchist Bomb -->
 				<item><ItemLink>110982</ItemLink><Weight>10</Weight></item> <!-- Anarchist Mine -->
@@ -132,6 +134,7 @@
 				<item><ItemLink>192165</ItemLink><Weight>10</Weight></item> <!-- Mortar -->
 				<item><ItemLink>192185</ItemLink><Weight>10</Weight></item> <!-- Torpedo -->
 				<item><ItemLink>192430</ItemLink><Weight>10</Weight></item> <!-- Flame Thrower -->
+            <item><ItemLink>1517</ItemLink><Weight>10</Weight></item>   <!-- Rocket Barrage -->
 				<!-- Epic -->
 				<item><ItemLink>110983</ItemLink><Weight>10</Weight></item> <!-- Anarchist Mine -->
 				<item><ItemLink>111129</ItemLink><Weight>10</Weight></item> <!-- Anarchist Flamethrower -->
@@ -143,7 +146,7 @@
 				<item><ItemLink>191868</ItemLink><Weight>10</Weight></item> <!-- Ship Gun - activatable -->
 				<item><ItemLink>192166</ItemLink><Weight>10</Weight></item> <!-- Mortar -->
 				<item><ItemLink>192173</ItemLink><Weight>10</Weight></item> <!-- Pirate Flag -->
-				<item><ItemLink>193903</ItemLink><Weight>0</Weight></item> <!-- Pirate Flag (Quest-Item) -->
+				<item><ItemLink>193903</ItemLink><Weight>0</Weight></item>  <!-- Pirate Flag (Quest-Item) -->
 				<item><ItemLink>192186</ItemLink><Weight>10</Weight></item> <!-- Torpedo -->
 				<item><ItemLink>192433</ItemLink><Weight>10</Weight></item> <!-- Flame Thrower -->
 				<!-- Legendary -->
@@ -192,6 +195,7 @@
 				<item><ItemLink>191602</ItemLink><Weight>10</Weight></item> <!-- Ships Chaplain -->
 				<item><ItemLink>191619</ItemLink><Weight>10</Weight></item> <!-- Port Dealer -->
 				<item><ItemLink>191620</ItemLink><Weight>10</Weight></item> <!-- Exporter of Goods -->
+				<item><ItemLink>13648</ItemLink><Weight>0</Weight></item>   <!-- Vindicated Veteran (Scenario: Silver Strongbox) -->
 				<!-- Machines -->
 				<item><ItemLink>191839</ItemLink><Weight>10</Weight></item> <!-- Scope -->
 				<item><ItemLink>191849</ItemLink><Weight>10</Weight></item> <!-- Hull -->
@@ -210,6 +214,7 @@
 				<item><ItemLink>191623</ItemLink><Weight>10</Weight></item> <!-- Delores -->
 				<item><ItemLink>192444</ItemLink><Weight>10</Weight></item> <!-- Drew Durnil -->
 				<item><ItemLink>192449</ItemLink><Weight>10</Weight></item> <!-- Lady Lu -->
+				<item><ItemLink>13302</ItemLink><Weight>0</Weight></item>   <!-- Dr. Kirna (Scenario: Memoirs of Markets) -->
 				<!-- Machines -->
 				<item><ItemLink>191840</ItemLink><Weight>10</Weight></item> <!-- Scope -->
 				<item><ItemLink>191850</ItemLink><Weight>10</Weight></item> <!-- Hull -->
@@ -217,7 +222,7 @@
 				<item><ItemLink>192153</ItemLink><Weight>10</Weight></item> <!-- Ship Toolbox -->
 				
 				<!-- Legendary -->
-				<item><ItemLink>121023</ItemLink><Weight>10</Weight></item> <!--Ocean Plotting Sheet of the Southern Hemisphere-->
+				<item><ItemLink>121023</ItemLink><Weight>10</Weight></item> <!-- Ocean Plotting Sheet of the Southern Hemisphere-->
 				<item><ItemLink>191451</ItemLink><Weight>10</Weight></item> <!-- Captain Felicity -->
 				<item><ItemLink>191452</ItemLink><Weight>10</Weight></item> <!-- Captain Richard Moses -->
 				<item><ItemLink>191453</ItemLink><Weight>10</Weight></item> <!-- Captain Smith -->
@@ -235,9 +240,9 @@
 			
 			<!-- Steamships -->
 				<!-- Uncommon -->
-				<item><ItemLink>191829</ItemLink><Weight>0</Weight></item> <!-- Propeller -->
-				<item><ItemLink>191832</ItemLink><Weight>0</Weight></item> <!-- Turbine -->
-				<item><ItemLink>191856</ItemLink><Weight>0</Weight></item> <!-- Heat Exchanger -->
+				<item><ItemLink>191829</ItemLink><Weight>0</Weight></item>  <!-- Propeller -->
+				<item><ItemLink>191832</ItemLink><Weight>0</Weight></item>  <!-- Turbine -->
+				<item><ItemLink>191856</ItemLink><Weight>0</Weight></item>  <!-- Heat Exchanger -->
 				<!-- Rare -->
 				<item><ItemLink>191830</ItemLink><Weight>10</Weight></item> <!-- Propeller -->
 				<item><ItemLink>191833</ItemLink><Weight>10</Weight></item> <!-- Turbine -->
