@@ -7,26 +7,100 @@
 		</Item>
 	</ModOp>
 	<!-- Thielmanns Tube-->
-	<ModOp GUID = '190849' Path = "/Values/ItemEffect/EffectTargets" Type = "add">
-		<Item>
-			<!-- all chemical plants -->
-			<GUID>194011</GUID>
-		</Item>
-		<Item>
-			<!-- Perfume Mixer -->
-			<GUID>5657</GUID>
-		</Item>
+	<ModOp GUID = '190849' Path = "/Values/ItemEffect/EffectTargets" Type = "replace">
+		<EffectTargets>
+			<Item>
+				<!-- Soap Factory -->
+				<GUID>1010281</GUID>
+			</Item>
+			<Item>
+				<!-- Dynamite Factory -->
+				<GUID>1010312</GUID>
+			</Item>
+			<Item>
+				<GUID>1010300</GUID>
+			</Item>
+			<Item>
+				<!-- Hacienda Fertiliser Works -->
+				<GUID>24805</GUID>
+			</Item>
+			<Item>
+				<!-- Laboratory: Medicine -->
+				<GUID>6631</GUID>
+			</Item>
+			<Item>
+				<!-- NEW: all chemical plants -->
+				<GUID>194011</GUID>
+			</Item>
+			<Item>
+				<!-- NEW: Perfume Mixer -->
+				<GUID>5657</GUID>
+			</Item>
+		</EffectTargets>
 	</ModOp>
 	<!-- Melting Point Apparatus -->
-	<ModOp GUID = '190848' Path = "/Values/ItemEffect/EffectTargets" Type = "add">
-		<Item>
-			<!-- all chemical plants -->
-			<GUID>194011</GUID>
-		</Item>
-		<Item>
-			<!-- Perfume Mixer -->
-			<GUID>5657</GUID>
-		</Item>
+	<ModOp GUID = '190848' Path = "/Values/ItemEffect/EffectTargets" Type = "replace">
+		<EffectTargets>
+			<Item>
+				<!-- Soap Factory -->
+				<GUID>1010281</GUID>
+			</Item>
+			<Item>
+				<!-- Dynamite Factory -->
+				<GUID>1010312</GUID>
+			</Item>
+			<Item>
+				<GUID>1010300</GUID>
+			</Item>
+			<Item>
+				<!-- Hacienda Fertiliser Works -->
+				<GUID>24805</GUID>
+			</Item>
+			<Item>
+				<!-- Laboratory: Medicine -->
+				<GUID>6631</GUID>
+			</Item>
+			<Item>
+				<!-- NEW: all chemical plants -->
+				<GUID>194011</GUID>
+			</Item>
+			<Item>
+				<!-- NEW: Perfume Mixer -->
+				<GUID>5657</GUID>
+			</Item>
+		</EffectTargets>
+	</ModOp>
+	<!-- Mercury Thermometer -->
+	<ModOp GUID = '190847' Path = "/Values/ItemEffect/EffectTargets" Type = "replace">
+		<EffectTargets>
+			<Item>
+				<!-- Soap Factory -->
+				<GUID>1010281</GUID>
+			</Item>
+			<Item>
+				<!-- Dynamite Factory -->
+				<GUID>1010312</GUID>
+			</Item>
+			<Item>
+				<GUID>1010300</GUID>
+			</Item>
+			<Item>
+				<!-- Hacienda Fertiliser Works -->
+				<GUID>24805</GUID>
+			</Item>
+			<Item>
+				<!-- Laboratory: Medicine -->
+				<GUID>6631</GUID>
+			</Item>
+			<Item>
+				<!-- NEW: all chemical plants -->
+				<GUID>194011</GUID>
+			</Item>
+			<Item>
+				<!-- NEW: Perfume Mixer -->
+				<GUID>5657</GUID>
+			</Item>
+		</EffectTargets>
 	</ModOp>
 
 <!-- Add Productions to General Item Pool -->
